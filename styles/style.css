@@ -19,7 +19,7 @@ body {
 
 main {
   padding: 20px;
-
+  margin-left: 160px;
 }
 
 p.main {
@@ -39,13 +39,14 @@ footer {
   background-color: #333;
   font-size: 13px;
   color: #eee;
-  padding: 20px;
+  /*padding: 20px;*/
   text-align: right;
 }
 
 footer p {
   margin: 0;
   line-height: 25px;
+  padding: 20px;
 }
 
 h1 {
